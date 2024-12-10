@@ -41,7 +41,9 @@ Resp:
 ## FAQ
 
 - 目前主要获取每个 wallet 应该要 claim token 个数 ？只针对 incentive pool 情况么？
-- EAS 数据主要是有哪些？合约模板？用户数据？（EAS 数据同步）、
+- EAS 需要同步的数据主要是有哪些？合约模板？用户数据？
+- EAS 跑在 Optimism 链？
+- DB ReadOnly Account
 
 ```
 model IncentivePool {
